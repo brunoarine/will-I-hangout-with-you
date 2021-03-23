@@ -1,2 +1,4 @@
+.ipynb_checkpoints
+*.csv#
 comb.csv
 names.csv
